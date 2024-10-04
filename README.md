@@ -1,6 +1,6 @@
 # Timetable creation using Genetic Algorithm
 Timetabling system based on the genetic algorithm that takes the Excel file containing data about groups, modules, and rooms as input and creates a new excel file with the timetable for each group. 
-
+![flowchart](flowchart.png)
 ## Documentation
 See the GA.pdf for more information about this program and algorithm used.
 ## Using the code
